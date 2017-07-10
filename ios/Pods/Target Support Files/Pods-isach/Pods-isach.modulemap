@@ -1,0 +1,6 @@
+framework module Pods_isach {
+  umbrella header "Pods-isach-umbrella.h"
+
+  export *
+  module * { export * }
+}
