@@ -1,4 +1,4 @@
-# WordPress-React-Native-App
+# WordPress React Native App
 
 WordPress React Native App
 
